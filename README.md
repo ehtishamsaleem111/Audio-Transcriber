@@ -10,10 +10,17 @@
   - Export Method Kaldi (Audio Name + Transcription)
 
     Kaldi Audio Structure
+    
     Audio
+    
     	  -> Audios Folder
+    
       		-> Spearker1(Folder)
+    
       		-> Spearker2
+    
       		-> Spearker3
+    
         -> Transcription.txt
+    
         		ali0	 اپنا موبائل نمبر بتا دیں کائنڈلی
