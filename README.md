@@ -4,11 +4,14 @@
 
 
   Tasks
-  - Load Kadli Audio Structure
-  - Multiple Audios Translation
-  - Muli-api request for Parallelization (GROQ)
-  - Export Method Kaldi (Audio Name + Transcription)
+  - ~~Load Kadli Audio Structure~~
+  - ~~Multiple Audios Translation~~
+  - ~~Muli-api request for Parallelization (GROQ)~~
+  - ~~Export Method Kaldi (Audio Name + Transcription)~~
+  - Setup Settings First { (i) Audio source, (ii)model settings, (iii)sequential/parallel & (iv)Saving Method } and then press any key key for transcription.
 
+    Reference:
+    
     Kaldi Audio Structure
     
     Audio
